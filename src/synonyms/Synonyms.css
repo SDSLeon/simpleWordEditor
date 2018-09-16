@@ -1,0 +1,12 @@
+.synonyms {
+    display: flex;
+    width: 200px;
+    flex-direction: column;
+    padding: 10px;
+    overflow: auto;
+}
+
+.synonyms-word {
+    padding: 5px 0;
+    cursor: pointer;
+}
